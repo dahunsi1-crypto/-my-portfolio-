@@ -1,0 +1,29 @@
+body {
+    font-family:sans-serif;
+    background: #f5f5f5;
+    color: #333;
+    margin:0;
+    padding: 0;
+}
+header{
+    background: lab(74.49% -62.18 49.27);
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+
+}
+section{
+    background: #ffffff;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+ul li{
+   margin-bottom: 10px; 
+}
+footer{
+    text-align: center;
+    background: #ddd;
+    padding: 10px;
+    margin-top: 20px;
+}
